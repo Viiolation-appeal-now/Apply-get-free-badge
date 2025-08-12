@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: apply-get-free-badge
+owner: viiolation-appeal-now
+package: .
